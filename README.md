@@ -15,3 +15,7 @@ The RPA bot checks repository status through the GitHub API and creates a risk r
 ## Presentation Note
 
 This repository intentionally contains sample issues and a sample pull request so the UiPath bot can demonstrate risk detection during Task Capture and final presentation.
+
+## Config Note
+
+This note was added on a separate branch to create an additional open pull request for the UiPath repository health report demo.
